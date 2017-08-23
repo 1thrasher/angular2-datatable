@@ -1,4 +1,4 @@
-import * as _ from "lodash";
+import * as _ from "lodash-es";
 import {Pipe, PipeTransform} from "@angular/core";
 
 @Pipe({
